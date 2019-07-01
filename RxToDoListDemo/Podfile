@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+use_frameworks!
+target 'RxToDoListDemo' do
+    #响应式
+    pod 'RxSwift'
+    pod 'RxCocoa'
+    pod 'RxDataSources'
+    pod 'Action'
+    pod 'NSObject+Rx'
+    pod 'Moya/RxSwift'
+    
+end
