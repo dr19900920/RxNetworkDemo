@@ -1,6 +1,0 @@
-framework module Pods_RxToDoListDemo {
-  umbrella header "Pods-RxToDoListDemo-umbrella.h"
-
-  export *
-  module * { export * }
-}
