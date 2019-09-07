@@ -1,0 +1,8 @@
+#github "RxSwiftCommunity/Action" ~> 4.0
+#github "RxSwiftCommunity/RxDataSources" ~> 4.0
+#github "RxSwiftCommunity/NSObject-Rx" ~> 5.0
+#github "ReactiveX/RxSwift" ~> 5.0
+#github "Alamofire/Alamofire" ~> 5.0
+#github "antitypical/Result" ~> 4.1
+#github "Moya/Moya" "5b560a1"
+github "CoderMJLee/MJRefresh"
